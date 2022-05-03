@@ -26,7 +26,6 @@
 
 <br>
 
-
 <p align="center">
   <Strong>⚒️ I've used ⚒️</Strong>
 <p>
@@ -41,3 +40,7 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </p>
+
+<br>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bacass)](https://github.com/bacass/github-readme-stats)
+<br>
