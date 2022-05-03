@@ -13,7 +13,9 @@
 
 <br>
 
-<h3 align="center">Teck stack</h3>
+<p align="center">
+  <Strong>⚒️ Tech Stack ⚒️</Strong>
+<p>
 <p align="center" display="inline-block">
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
@@ -24,7 +26,10 @@
 
 <br>
 
-<h3 align="center">I've used</h3>
+
+<p align="center">
+  <Strong>⚒️ I've used ⚒️</Strong>
+<p>
 <p align="center" display="inline-block">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
