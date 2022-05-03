@@ -11,10 +11,6 @@
   I use Java and Kotlin and I'm also interested in Flutter.
 </p>
 
-<p align="center">
-<Strong>Email</Strong><br>bacassf@gmail.com<br>
-</p>
-
 <br>
 
 <h3 align="center">Teck stack</h3>
@@ -25,6 +21,8 @@
   <img src="https://img.shields.io/badge/WearOS-4285F4?style=for-the-badge&logo=wearos&logoColor=white">  
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </p>
+
+<br>
 
 <h3 align="center">I've used</h3>
 <p align="center" display="inline-block">
