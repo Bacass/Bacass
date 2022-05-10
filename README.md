@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/WearOS-4285F4?style=for-the-badge&logo=wearos&logoColor=white">  
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-02569B?style=for-the-badge&logo=Jetpack%20Compose&logoColor=white">
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=Jetpack%20Compose&logoColor=white">
 </p>
 
 <br>
