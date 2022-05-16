@@ -8,7 +8,7 @@
   Welcome to my GitHub.<br>
   I have been developing Android since 2010.<br>
   Last year, I developed an App using WearOS.<br>  
-  I use Java and Kotlin and I'm also interested in Flutter.<br>
+  I use Java and Kotlin and I'm also interested in Jetpack Compose.<br>
   Please visit my blog(<a href="https://bacassf.tistory.com/">Bacass's Blog</a>) too.
 </p>
 
